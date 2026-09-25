@@ -1,7 +1,7 @@
 # The Grove (Bambuddy)
 
-[![Open your Home Assistant instance and open this repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=dmuth23&repository=ha-thegrove&category=integration)
-[![GitHub release](https://img.shields.io/github/v/release/dmuth23/ha-thegrove)](https://github.com/dmuth23/ha-thegrove/releases)
+[![Open your Home Assistant instance and open this repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=wizdumb23&repository=ha-thegrove&category=integration)
+[![GitHub release](https://img.shields.io/github/v/release/wizdumb23/ha-thegrove)](https://github.com/wizdumb23/ha-thegrove/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **Bambu Lab printers in Home Assistant, driven entirely through [Bambuddy](https://github.com/maziggy/bambuddy) — no per-printer MQTT setup, no cloud.**
@@ -15,7 +15,7 @@ decoder.
 > **Status: Beta.** Built and live-verified against a real printer through a full print
 > lifecycle (runout, finish, plate-clear, cancels) plus supervised live-write tests of the
 > controls. It works, but it's young — expect rough edges and please
-> [open issues](https://github.com/dmuth23/ha-thegrove/issues).
+> [open issues](https://github.com/wizdumb23/ha-thegrove/issues).
 
 ## Features
 
@@ -56,7 +56,7 @@ decoder.
 ### 1. Get the integration (HACS)
 
 Click the badge at the top of this page, **or** manually: HACS → ⋮ → **Custom repositories** →
-add `https://github.com/dmuth23/ha-thegrove`, category **Integration**. (The Grove isn't in
+add `https://github.com/wizdumb23/ha-thegrove`, category **Integration**. (The Grove isn't in
 the HACS default store yet, so the custom-repository step is required for now.)
 
 Download **The Grove (Bambuddy)**, then **restart Home Assistant**.
